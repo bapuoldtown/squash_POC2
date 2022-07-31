@@ -4,4 +4,8 @@ print("Thread programs")
 print("Websockets programs")
 print("Flask")
 print("Django")
+print("Bottlle")
+print("Fast API")
+
+
 
